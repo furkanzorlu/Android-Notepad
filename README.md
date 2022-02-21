@@ -14,4 +14,5 @@ Notepad application made with Kotlin
 - Delete Note
 - Search Note 
 # Screenshots
-![Screenshot_1645455784](https://user-images.githubusercontent.com/49489211/154981650-f0b7b273-871f-403e-8305-94d834b5bd72.png)
+![Screenshot_1645455784](https://user-images.githubusercontent.com/49489211/154981739-19a0d783-eb16-4482-8515-95b843087ed7.png)
+
